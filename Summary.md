@@ -2,10 +2,10 @@
 
 ## Resume Building & Career Ecosystem
 
-**Submitted By:** [Your Name]  
+**Submitted By:** Raj Dutta  
 **Date:** October 17, 2025  
 **Duration:** 3-4 Days  
-**Role:** Backend Developer
+**Role:** Full stack Developer
 
 ---
 
